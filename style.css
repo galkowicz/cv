@@ -220,6 +220,10 @@ section:last-child {
 	margin-bottom: -2px;
 }
 
+.sectionContent .job{
+	padding-bottom: 2em;
+}
+
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
